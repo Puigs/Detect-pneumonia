@@ -1,0 +1,3 @@
+In this notebook we are tryng to understand our data: repartition, particularity ....
+Link in google colab (with visualisation): 
+https://colab.research.google.com/drive/1KDHp_w2VolMoYp8o7kvY7th4hfHTA9c0?usp=sharing

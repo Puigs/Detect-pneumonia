@@ -1,0 +1,2 @@
+Since this model is too heavy for github, please use the google colab notebook that output the model as nnx format on last cell.
+https://colab.research.google.com/drive/1oZHqOQP4tLo5e_q7D980sgUCZicFluwN?usp=sharing
