@@ -1,10 +1,10 @@
 # T-DEV-810 : zoidberg2.0
 
 This project was carried out by : 
-Brayan Puigsagur: For the CNN part
-Clément L.: For the pre-processing part
-Gabriel B.: For the KNN part
-Manon V.: For the SVM part
+Brayan Puigsagur did the CNN part
+Clément L. did the pre-processing part
+Gabriel B. did the KNN part
+Manon V. did the SVM part
 
 ## Introduction
 
